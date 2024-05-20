@@ -1,16 +1,14 @@
-### Hi there 👋
+### Heyy bem vindo ao meu perfil 💙
 
-<!--
-**gabbiba/gabbiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Gaby Muniz
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem javaScript
+- ultilizo esse espaco para minha organizacao e compartilhamento dos meus projetos criados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### Entre em contato comigo
+  
+    12gabymuniz@gmail.com
+
+ ![](https://media1.tenor.com/m/DuThn51FjPcAAAAC/nerd-emoji-nerd.gif)
+    
