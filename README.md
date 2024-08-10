@@ -2,9 +2,9 @@
 
 
 
--Estou estudando na Alura
--Estou me desenvolvendo na linguagem javaScript
--ultilizo esse espaco para minha organizacao e compartilhamento dos meus projetos criados
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem javaScript
+- ultilizo esse espaco para minha organizacao e compartilhamento dos meus projetos criados
 
  ### Entre em contato comigo
   
